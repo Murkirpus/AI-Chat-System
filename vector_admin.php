@@ -16,7 +16,7 @@ $config = [
     'pg_user' => 'postgres',
     'pg_pass' => '',  // ← Змініть!
     
-    'api_key' => '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',
+    'api_key' => 'sk-or-v1-',
     'embedding_model' => 'openai/text-embedding-ada-002',
     'embedding_dim' => 1536,
     
@@ -1887,4 +1887,5 @@ document.addEventListener('keydown', (e) => {
 loadStats();
 </script>
 </body>
+
 </html>
