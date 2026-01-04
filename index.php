@@ -8,7 +8,7 @@
 ini_set('memory_limit', '256M');
 ini_set('max_execution_time', '120');
 
-define('OPENROUTER_API_KEY', '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');
+define('OPENROUTER_API_KEY', 'sk-or-v1-');
 define('SITE_URL', 'http://dj-x.info');
 define('SITE_NAME', 'AI Chat');
 define('CHAT_VERSION', '7.1');
@@ -1282,4 +1282,5 @@ async function testSearch(){
 inp.focus();
 </script>
 </body>
+
 </html>
